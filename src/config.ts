@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "https://s2.loli.net/2025/08/08/PwkNHOEUvZAqWF5.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "https://s2.loli.net/2025/08/26/zWRFUDajYhTpNVv.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
