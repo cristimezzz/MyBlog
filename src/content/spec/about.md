@@ -7,6 +7,8 @@
 ![image.png](https://s2.loli.net/2025/08/08/wasxWS9AfjTPNi5.png)
 - [崩坏：星穹铁道](https://sr.mihoyo.com/)
 ![hsr-2.jpg](https://s2.loli.net/2025/08/08/HZ92iYysnACTQde.jpg)
+- [明日方舟](https://ak.hypergryph.com/)
+![arknights.jpg](https://s2.loli.net/2025/12/07/FuiLEJt2acjVTOg.jpg)
 - [蔚蓝档案](https://bluearchive-cn.com/)
 ![BA1-2.jpg](https://s2.loli.net/2025/08/08/JgS4Q2xBhyFXcPG.jpg)
 - [Counter Strike 2](https://www.counter-strike.net/cs2)
