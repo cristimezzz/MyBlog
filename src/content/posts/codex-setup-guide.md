@@ -5,6 +5,7 @@ description: 从 config.toml、AGENTS.md、MCP、权限、Hooks 到 Skills 和 P
 tags: [Codex, AI, Tools]
 category: 'AI'
 draft: false
+image: "https://s2.loli.net/2023/08/17/cNTU6MmEPXGYRCb.jpg"
 ---
 
 ## 零、为什么要认真设置 Codex
